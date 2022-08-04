@@ -1,1 +1,1 @@
-# jupyter-notebook
+# 창원대 파이썬 & 로봇제어기술 교육
